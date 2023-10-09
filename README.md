@@ -17,6 +17,6 @@
 * Saving Cleaned Data: Writing the cleaned dataset to a CSV file for further analysis or visualization in tools like Tableau.
 
 ## Next Steps
-This code serves as a solid foundation for more advanced analyses, such as predictive modeling or deeper insights into the YC dataset.
-Further analysis and visualization tools like Tableau is used to explore the data. Link to the Tableau dashboard: https://public.tableau.com/app/profile/william.wu8728/viz/YCDashboard_16967608314930/Dashboard1
+* This code serves as a solid foundation for more advanced analyses, such as predictive modeling or deeper insights into the YC dataset.
+* Further analysis and visualization tools like Tableau are used to explore the data. Link to the Tableau dashboard: https://public.tableau.com/app/profile/william.wu8728/viz/YCDashboard_16967608314930/Dashboard1
 
