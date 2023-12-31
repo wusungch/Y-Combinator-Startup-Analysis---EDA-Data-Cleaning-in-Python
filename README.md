@@ -4,8 +4,10 @@
 The goal of this project was to create a comprehensive Tableau dashboard that visualizes key data points from Y Combinator-funded startups, with the intent to extract and present actionable insights for venture capitalists and startup founders. The dashboard focuses on identifying industry trends, founder dynamics, and geographical distribution patterns to inform strategic investment decisions and identify potential areas for innovation and market entry within the startup ecosystem.
 
 
+
 ### Actionable Insights for VCs and Startup Founders
 Based on the results of my Exploratory Data Analysis(EDA) and Tableau dashboard, I have produced some actionable insights for venture capitalists and startup founders:
+
 
 **For Venture Capitalists:**
 
@@ -25,6 +27,8 @@ Based on the results of my Exploratory Data Analysis(EDA) and Tableau dashboard,
 
 3. **Collaboration and Team Building**: Given the number of startups with a single founder, there's an opportunity for founders to seek co-founders or early team members with complementary skills. This can enhance the startup's appeal to investors, who often look for balanced and multidisciplinary teams.
 
+
+
 **General Insights:**
 
 - **Market Gap Analysis**: Both VCs and founders can use the subindustry distribution to identify market gaps and emerging trends. For startups, this could guide product development and market entry strategies. For VCs, it could help refine investment theses and identify future growth areas.
@@ -34,6 +38,7 @@ Based on the results of my Exploratory Data Analysis(EDA) and Tableau dashboard,
 - **Investment and Growth Alignment**: Founders should align their growth stage and sector with the interests and historical investment patterns of VCs to increase the likelihood of funding success.
 
 The dashboard provides a wealth of data-driven insights that can guide strategic decisions for VCs and founders, helping them to act on market trends, team dynamics, and sector-specific opportunities.
+
 
 **Topics for Further Investigation:**
 
