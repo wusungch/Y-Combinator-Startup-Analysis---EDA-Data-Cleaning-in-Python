@@ -6,7 +6,7 @@ The goal of this project was to create a comprehensive Tableau dashboard that vi
 
 
 ### Actionable Insights for VCs and Startup Founders
-Based on the results of my Exploratory Data Analysis(EDA) and Tableau dashboard, I have produced some actionable insights for venture capitalists and startup founders:
+Based on the results of my Exploratory Data Analysis(EDA) and Tableau dashboard, I produced some actionable insights for venture capitalists and startup founders:
 
 
 **For Venture Capitalists:**
