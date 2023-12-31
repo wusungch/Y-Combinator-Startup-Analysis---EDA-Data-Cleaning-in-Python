@@ -1,5 +1,5 @@
 # Y-Combinator-Startup-Analysis---EDA-Data-Cleaning-in-Python
-* This document involves cleaning and analyzing data from Young Companies (YC) by merging two datasets, performing data preprocessing, and exploring key aspects of the dataset.
+* This document involves cleaning and analyzing data from Y Combinator merging two datasets, performing data preprocessing, and exploring key aspects of the dataset.
 
 ## Key Skills and Techniques Showcased
 ### 1. Data Preparation
