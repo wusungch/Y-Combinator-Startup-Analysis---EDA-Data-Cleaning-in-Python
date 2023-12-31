@@ -37,7 +37,6 @@ Based on the results of my Exploratory Data Analysis(EDA) and Tableau dashboard,
 
 - **Investment and Growth Alignment**: Founders should align their growth stage and sector with the interests and historical investment patterns of VCs to increase the likelihood of funding success.
 
-The dashboard provides a wealth of data-driven insights that can guide strategic decisions for VCs and founders, helping them to act on market trends, team dynamics, and sector-specific opportunities.
 
 
 **Topics for Further Investigation:**
